@@ -1,16 +1,13 @@
-### Hi there 👋
+Welcome to my Github Page!
 
-<!--
-**brodiep21/brodiep21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on becoming an everyday developer. Searching for the perfect job.  Go is my language of choice. But I am willing to learn anything!
+- 👯 I’m looking to collaborate on absolutely anything. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I collaborate weekly, building a project for the future of software developers and end users.
+
+
+You can reach me by emailing me brodiep21@hotmail.com
+
+
+Ready and willing for everything. I'm ecstatic I found this work and I am very passionate about making software my future. 
