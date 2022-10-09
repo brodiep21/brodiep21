@@ -11,3 +11,5 @@ You can reach me by emailing me brodiep21@hotmail.com
 
 
 Ready and willing. Ecstatic to be a part of this - I am very passionate about making software my future. 
+
+HIT BY HURRICANE IAN. I will return!
