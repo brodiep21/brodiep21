@@ -7,7 +7,7 @@ Welcome to my Github Page!
 I collaborate weekly, building a project for the future of software developers. 
 
 
-You can reach me by emailing me brodiep21@hotmail.com
+You can reach me by emailing me brodiep21@hotmail.com or bpeif21@gmail.com .
 
 
 Ready and willing. Ecstatic to be a part of this - I am very passionate about making software my future. 
