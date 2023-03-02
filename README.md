@@ -11,3 +11,6 @@ You can reach me by emailing me brodiep21@hotmail.com or bpeif21@gmail.com .
 
 
 Ready and willing. Ecstatic to be a part of this - I am very passionate about making software my future. 
+
+
+In the process of studying for my AWS Cloud Practitioner and AWS Developer Associate exams.  Will return soon.
