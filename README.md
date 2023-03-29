@@ -14,5 +14,3 @@ Ready and willing. Ecstatic to be a part of this - I am very passionate about ma
 
 
 AWS Certified Cloud Practitioner 
-
-In the process of studying for my AWS Developer Associate exam.  Will return soon. 3/15/23
