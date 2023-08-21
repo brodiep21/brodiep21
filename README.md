@@ -11,5 +11,6 @@ I currently work as an Azure DevOps Engineer for National General
 You can reach me by emailing me brodiep21@hotmail.com or bpeif21@gmail.com.
 
 
-AWS Certified Cloud Practitioner 
+AWS Certified Cloud Practitioner
+
 Certified Kubernetes Application Developer
