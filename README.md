@@ -14,3 +14,5 @@ You can reach me by emailing me brodiep21@hotmail.com or bpeif21@gmail.com.
 AWS Certified Cloud Practitioner
 
 Certified Kubernetes Application Developer
+
+Hashicorp Certified Cloud Engineer with Terraform
