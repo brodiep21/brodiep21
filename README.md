@@ -16,3 +16,5 @@ AWS Certified Cloud Practitioner
 Certified Kubernetes Application Developer
 
 Hashicorp Certified Cloud Engineer with Terraform
+
+Azure cloud Admin 104 and 305 in progress for DevOps solutions Architect
