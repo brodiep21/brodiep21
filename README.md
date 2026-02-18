@@ -5,8 +5,9 @@ Welcome to my Github Page!
 
 I currently work as a Lead DevOps Engineer for Booz Allen Hamilton
 
-I work with network meshes in kubernetes, and configuring various applications under the mesh. Including keycloak, portal, vscode, minio, jupyterhub(r), airflow, gatekeeper, gitlab and gitea, kibana, nexus, sonarqube, twistlock, anchore etc.
+I have worked with network meshes in kubernetes, and configuring various applications under the mesh.
 AWS Solutions Architect
+Certified Kubernetes Application Developer
 
 Secret clearance and currently active DoD CAC.  In final stages of TS clearance.
 
