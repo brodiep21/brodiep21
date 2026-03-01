@@ -12,7 +12,7 @@
 - Deep experience with Kubernetes and platform/application integration
 - Certified AWS Solutions Architect
 - Certified Kubernetes Application Developer
-- Active DoD CAC, Secret Clearance, TS in progress.
+- Active DoD CAC, Top Secret Clearance, in line for poly.
 - Contact: [bpeif21@gmail.com](mailto:bpeif21@gmail.com)
 
 ## Live GitHub Activity
