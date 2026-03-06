@@ -15,18 +15,6 @@
 - Active DoD CAC, Top Secret Clearance, in line for poly.
 - Contact: [bpeif21@gmail.com](mailto:bpeif21@gmail.com)
 
-## Live GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brodiep21&theme=github" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brodiep21&theme=github" alt="Top languages by repository" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brodiep21&hide_border=true" alt="GitHub streak" />
-</p>
-
-
 ##
 
 - Build in public and ship consistently
