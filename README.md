@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0A7EA4&center=true&vCenter=true&width=900&lines=Brodie+Peif+-+Lead+DevOps+Engineer+%40+Booz+Allen+Hamilton;Building+tools+every+day;AWS+Solutions+Architect+%7C+CKAD;Service+mesh%2C+Kubernetes%2C+platform+engineering" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=0A7EA4&center=true&vCenter=true&width=900&lines=Brodie+Peif+-+Platform+Engineer+%40+Teamworks;Building+tools+every+day;AWS+Solutions+Architect+%7C+CKAD;Service+mesh%2C+Kubernetes%2C+platform+engineering" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Lead DevOps Engineer at Booz Allen Hamilton
+- Platform Engineer at Teamworks Tactical 
 - Deep experience with Kubernetes and platform/application integration
 - Certified AWS Solutions Architect
 - Certified Kubernetes Application Developer
