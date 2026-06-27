@@ -8,7 +8,7 @@
 
 ## About Me
 
-- Platform Engineer at Teamworks Tactical 
+- Platform Engineer at [Teamworks](https://teamworks.com/) Tactical 
 - Deep experience with Kubernetes and platform/application integration
 - Certified AWS Solutions Architect
 - Certified Kubernetes Application Developer
